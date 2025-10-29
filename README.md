@@ -63,8 +63,4 @@ This Salesforce project enhances the **customer ordering experience** and stream
 
 ---
 
-## 📁 Repository Structure  
-
----
-
 © 2025 Nekeisha Ashlyn Elfa – Asia Pacific College
